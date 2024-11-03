@@ -1,5 +1,7 @@
 # LiDAR, Lane Detection
 Lane Detection | LiDAR Intensity
+![image](https://github.com/user-attachments/assets/1a3bea83-a351-435e-9cda-256abab41c14)
+
 
 ## Introduction
 Due to the lack of data, it is very difficult for the camera to recognize lanes where lanes are not drawn well. So I built an algorithm to detect lanes using the strength of LiDAR. Also, it regress lanes through cubic_spline in Ubuntu, and the results can be seen through rviz.
