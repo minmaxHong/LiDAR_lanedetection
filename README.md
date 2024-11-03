@@ -21,6 +21,7 @@ There are a lot of topics in LIDAR, but we get the information of the lane. Thes
 ## Inference
 Before you start the code, please check the path carefully when importing cubic_spline_planner.py, and make sure you have pcl and serial_node.cpp!
 
+If it doesn't run well, please look at the profile and contact us via "landsky1234@naver.com" email!
 ```Shell
 roscore
 rosrun [catkin_ws/'your_directory'] lidar_cpp lane
